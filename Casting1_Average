@@ -1,0 +1,8 @@
+num1 = str(input("please enter a number "))
+num2 = str(input("please enter another number "))
+num3 = str(input("please enter another number "))
+
+floate = float(num1)
+floates = float(num2)
+floater = float(num3)
+print((floate*floates*floater)/3)
