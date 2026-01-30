@@ -1,0 +1,6 @@
+     procedure printInfo(firstname, surname, age)
+            fullName = firstname + " " + surname
+       years = str(age) + " years old."
+		print(fullName)
+		print(years)
+        endprocedure
