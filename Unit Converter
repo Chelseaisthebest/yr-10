@@ -1,0 +1,4 @@
+
+meters = float(input("Enter value in meters: "))
+km = meters / 1000
+print(meters, "meters is", km, "km")
